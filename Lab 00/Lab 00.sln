@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29123.88
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab 00", "Lab 00.csproj", "{E17FFFE9-603A-4ABF-9A7A-36A926DDDC6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Card", "Card.csproj", "{E17FFFE9-603A-4ABF-9A7A-36A926DDDC6A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
