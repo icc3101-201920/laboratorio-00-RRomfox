@@ -8,8 +8,8 @@ namespace Lab_00
 {
     public class Hand
     {
-        private CombatCard List()<CombatCard>;
-        private SpecialCard List()<SpecialCard>;
+        private CombatCard List()<Card.CombatCard>;
+        private SpecialCard List()<Card.SpecialCard>;
 
 
 
